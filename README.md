@@ -6,6 +6,8 @@ Grupo: Maiara Martins Zucco, Matheus Gabriel Girardi, Theodoro Gaspar Ferreira e
 
 Modelos: **Máquina de Post** (apresentação) e **Máquina de Uma Pilha**.
 
+**Demo online:** https://gustavodrews.github.io/simuladores-post-uma-pilha/
+
 ## Requisitos
 
 - [Node.js](https://nodejs.org/) 20 ou superior (inclui o `npm`).
